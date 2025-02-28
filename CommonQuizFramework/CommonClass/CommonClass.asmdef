@@ -1,0 +1,20 @@
+{
+    "name": "CommonClass",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Vibration",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Helper"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

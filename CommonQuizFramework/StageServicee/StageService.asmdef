@@ -1,0 +1,18 @@
+{
+  "name" : "StageService" ,
+  "rootNamespace" : "" ,
+  "references" : [
+	"GUID:112bc9dfbf2b32443ad5962b894009ff" ,
+	"GUID:6055be8ebefd69e48b49212b09b47b2f" ,
+	"GUID:c58ba905b5943864e85f077dadfb8e67"
+  ] ,
+  "includePlatforms" : [ ] ,
+  "excludePlatforms" : [ ] ,
+  "allowUnsafeCode" : false ,
+  "overrideReferences" : false ,
+  "precompiledReferences" : [ ] ,
+  "autoReferenced" : true ,
+  "defineConstraints" : [ ] ,
+  "versionDefines" : [ ] ,
+  "noEngineReferences" : false
+}

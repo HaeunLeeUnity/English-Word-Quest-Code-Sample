@@ -1,0 +1,7 @@
+{
+  "name" : "CombatService" ,
+  "references" : [
+	"GUID:112bc9dfbf2b32443ad5962b894009ff" ,
+	"GUID:c58ba905b5943864e85f077dadfb8e67"
+  ]
+}
